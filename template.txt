@@ -1,0 +1,25 @@
+#include<iostream>
+#include<stdio.h>
+#include<algorithm>
+#include<cstring>
+#include<limits.h>
+#include<vector>
+#include<stack>
+#include<math.h>
+#define mp make_pair
+#define pb push_back
+#define sc(a) scanf("%d",&a)
+#define scl(a) scanf("%lld",&a)
+#define scs(a) scanf("%s",a)
+#define pii pair< long, int >
+#define pr(a) printf("%d ",a)
+#define prl(a) printf("%lld ",a)
+#define rep(i,a,b) for(i=a;i<b;i++)
+#define rev(i,a) for(i=a;i>=0;i--)
+using namespace std;
+int main() {
+        
+
+
+        return 0;
+}
